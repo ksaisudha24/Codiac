@@ -51,7 +51,6 @@ def register():
     password for security.
     """
     if request.method == "POST":
-        #email = request.form["email"]
         username = request.form["username"]
         password = request.form["password"]
         db = get_db()
