@@ -1,0 +1,4 @@
+include Codiac/schema.sql
+graft Codiac/static
+graft Codiac/templates
+global-exclude *.pyc
