@@ -31,7 +31,7 @@ CSS
 Flask  
 Dialogflow  
 
-### Features
+## Features
 
 Teaches C and Python languages  
 Offers interactive learning through a chatbot  
